@@ -2,13 +2,13 @@
 Redesigned the iPhone caller identification and missed calls interface to help users make more informed decisions on whether to answer or return a call
 
 ## Current Flow 
-![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image10.jpg)
-![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image2.jpg)
-![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image8.jpg)
+<img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image10.jpg" width="120" />
+<img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image2.jpg" width="120" />
+<img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image8.jpg" width="120" />
 
 ## Redesigned Flow
 ![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image3.jpg)
-![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image3.jpg5)
+![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image5.jpg)
 ![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image7.jpg)
 ![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image9.jpg)
 ![](https://github.com/au01gh/mobile-caller-interface-design/blob/main/image12.jpg)
