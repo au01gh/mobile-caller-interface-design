@@ -8,9 +8,12 @@ Redesigned the iPhone caller identification and missed calls interface to help u
 * [Figma Design](https://silly-many-55963960.figma.site/)
 
 ## Key Metrics
-### Overall average rating: 4.44 / 5
-### Participant count: 21 respondents
-### Threshold Performance: Over 85% of participants rated every measure 4 ("Agree") or above
+### Overall average rating
+- 4.44 / 5
+### Participant count
+- 21 respondents
+### Threshold Performance
+- Over 85% of participants rated every measure 4 ("Agree") or above
 ### Top-Rated Attributes
 - Consistency between screens: 4.57 mean (95% rated 4+)
 - Ease of identifying trustworthy calls: 4.57 mean (95% rated 4+)
