@@ -8,14 +8,18 @@ Redesigned the iPhone caller identification and missed calls interface to help u
 </p>
 
 ## Redesigned Flow
-<p>
-  <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image12.png" width="200" />
-  <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image3.png" width="200" />
-</p>
+
+### Incoming call screen
 <p>
   <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image5.png" width="200" />
   <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image7.png" width="200" />
     <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image9.png" width="200" />
+</p>
+
+### Missed calls screen
+<p>
+  <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image12.png" width="200" />
+  <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image3.png" width="200" />
 </p>
 
 ## Design Report
