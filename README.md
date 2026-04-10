@@ -12,11 +12,6 @@ Redesigned the iPhone caller identification and missed calls interface to help u
   <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image12.jpg" width="200" />
   <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image3.jpg" width="200" />
 </p>
-<p>
-  <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image5.jpg" width="200" />
-  <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image7.jpg" width="200" />
-    <img src="https://github.com/au01gh/mobile-caller-interface-design/blob/main/image9.jpg" width="200" />
-</p>
 
 ## Design Report
 * [Design Report](https://docs.google.com/document/d/1-3hMaHPylUQR15pSnPTJSnEzvEqOXres1xUtuNUSPyo/edit?usp=sharing)
